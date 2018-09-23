@@ -3,13 +3,14 @@ Um simples repositório para testar o GitHub
 # Uma demostração de um titulo
 ### Uma demostração de um subtitulo
 
+
 A baixo um código e C, para calcular as raizes pela Fórmula de Bhaskara 
 
 
 
 ```C
-#include <stdio.h>
-#include <math.h>
+	#include <stdio.h>
+	#include <math.h>
 	int main (){
 		float a, b, c, delta, x1, x2;
 		
