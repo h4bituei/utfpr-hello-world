@@ -1,8 +1,8 @@
 # utfpr-hello-world
 Um simples repositório para testar o GitHub
-# Uma demostração de um titulo
-### Uma demostração de um subtitulo
-
+# Engenharia de Software
+#### Introdução a Engenharia de Software
+1. Meu primeiro repositório no GitHub
 
 A baixo um código e C, para calcular as raizes pela Fórmula de Bhaskara 
 
@@ -31,3 +31,4 @@ A baixo um código e C, para calcular as raizes pela Fórmula de Bhaskara
 		}		
 		return 0;
 	}
+```
