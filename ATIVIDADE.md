@@ -5,6 +5,9 @@ Um simples repositório para testar o GitHub
 
 A baixo um código e C, para calcular as raizes pela Fórmula de Bhaskara 
 
+
+
+```C
 #include <stdio.h>
 #include <math.h>
 	int main (){
@@ -27,3 +30,4 @@ A baixo um código e C, para calcular as raizes pela Fórmula de Bhaskara
 		}		
 		return 0;
 	}
+	```
