@@ -4,7 +4,7 @@
 
 
 
-A baixo um código e C, para calcular as raizes pela Fórmula de Bhaskara 
+O seguinte código em C tende a calcular as raizes pela Fórmula de Bhaskara 
 
 
 
